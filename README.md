@@ -1,7 +1,7 @@
 # Hackathon RIIAA 2021 "JusticIA para los desaparecidos"
 ## Subtitulo de su proyecto
 
-**Nombre del equipo**
+**Nombre del equipo**  
 Equipo N
 
 **Integrantes**
