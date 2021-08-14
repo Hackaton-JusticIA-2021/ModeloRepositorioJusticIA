@@ -18,3 +18,7 @@ Este es un ejemplo de como deben de crear su repositorio.
 
 ## Cómo correr el código
 Ejecutar el ipynb
+
+## Notas
+Acerca de los [README](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes)
+
