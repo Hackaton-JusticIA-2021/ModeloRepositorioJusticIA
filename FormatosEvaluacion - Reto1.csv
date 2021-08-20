@@ -1,1 +1,8 @@
-filename,x0,y0,x1,y1,type
+filename,width,height,class,xmin,ymin,xmax,ymax
+File1.jpg,500,500,Photo,244,226,338,250
+File1.jpg,500,500,Lines,368,174,401,283
+File2.jpg,500,500,Letters,51,82,72,94
+File3.jpg,500,500,Handwritting,331,21,382,30
+File3.jpg,500,500,Fingerprints,35,206,136,342
+File3.jpg,500,500,Signature,242,67,339,165
+File3.jpg,500,500,Stamp,316,267,356,272
