@@ -2,11 +2,14 @@
 # Titulo de su proyecto
 
 **Nombre del equipo**  
-Equipo N
+UPPTEC
 
 **Integrantes**
-* Alice
-* Bob
+* Blanca Tome Gabriela
+* Lechuga Ascención Ramiro
+* Paez Gallardo Kevin
+* Rodríguez Vélez Alejandro
+* Tepale Digas Alberto Jesús 
 
 ## Descripión
 Este es un ejemplo de como deben de crear su repositorio.
